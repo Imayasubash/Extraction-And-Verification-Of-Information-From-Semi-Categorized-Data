@@ -1,10 +1,9 @@
-# Extraction-And-Verification-Of-Information-From-Semi-Categorized-Data
+# Extraction-And-Verification-Of-Information-From-Semi-Categorized-Data-
 An OCR project focuses on developing a system to extract, structure, and verify information from semi-categorized data sources. Semi-categorized data refers to datasets that contain partially organized information such as spreadsheets, forms, or loosely structured text—where some data fields are defined but others are unstructured or inconsistent.
 
 # Demo
 
-https://github.com/user-attachments/assets/44297bec-f51b-4c21-b656-520e649f3aa2
-
+https://github.com/user-attachments/assets/b9eab526-7c9c-4eb0-89f7-4b9463f9541b
 
 
 # Overview
@@ -57,8 +56,7 @@ Here are some common applications and domains where OCR is used:
 
 # 4.Architecture Design
 <a name="archi"><a/>
-![WhatsApp Image 2025-06-18 at 10 15 03 AM](https://github.com/user-attachments/assets/57f39cb0-8755-4078-9710-d165cdc9dcbc)
-
+![Screenshot 2025-06-17 232141](https://github.com/user-attachments/assets/0cd6b005-2dd3-4cd9-af1b-965e52bc27a2)
 
 # 5.Project Execution Steps
 <a name="execute"></a>
@@ -89,4 +87,6 @@ Solution:  After verification, all documents and biodata are securely stored in 
 
 # 6.Future Scope
 <a name="future"></a>
-In the future, the system can be improved in several ways to make it more powerful and user-friendly. One important enhancement is the addition of biometric authentication, such as facial recognition or fingerprint scanning, which can provide an extra layer of security during the verification process. The platform could also include an AI-powered chatbot to guide users stepby-step, answer their queries instantly, and make the user experience more interactive. Support for voice-based input and regional language interaction would allow users to communicate with the system in their own language and style, making it more inclusive. Another improvement could be the integration of blockchain technology to store verified documents securely and ensure that they cannot be altered or tampered with. The system may also be linked with external databases such as university records or government ID services to allow automatic real-time cross-verification of submitted information. As more data is collected over time, machine learning models can be trained further to improve accuracy in reading and understanding various document types. A mobile application version of the platform could also be introduced to help candidates complete the entire process on their smartphones. These enhancements would make the system even more efficient, secure, accessible, and suitable for modern recruitment needs across different sectors.
+In the future, the system can be improved in several ways to make it more powerful and user-friendly. One important enhancement is the addition of biometric authentication, such as facial recognition or fingerprint scanning, which can provide an extra layer of security during the verification process. The platform could also include an AI-powered chatbot to guide users stepby-step, answer their queries instantly, and make the user experience more interactive. Support for voice-based input and regional language interaction would allow users to communicate with the system in their own language and style, making it more inclusive. Another improvement could be the integration of blockchain technology to store verified documents securely and ensure that they cannot be altered or tampered with. The system may also be linked with external databases such as university records or government ID services to allow automatic real-time cross-verification of submitted information. As more data is collected over time, machine learning models can be trained further to improve accuracy in reading and understanding various document types. A mobile application version of the platform could also be introduced to help candidates complete the entire process on their smartphones. These enhancements would make the system even more efficient, secure, accessible, and suitable for modern recruitment needs across different sectors.   
+
+
